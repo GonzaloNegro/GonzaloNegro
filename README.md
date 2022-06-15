@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Gonzalo</h1>
-<h2 align="left">I am a web developer from Cordoba, Argentina who really enjoys learning new ways to create different solutions through code.</h2>
+<h2 align="center">I am a web developer from Cordoba, Argentina who really enjoys learning new ways to create different solutions through code.</h2>
 
 - 🌍 I'm from Argentina.
 - 🧠  I'm learning **React** and **NodeJS**
