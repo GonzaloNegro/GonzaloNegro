@@ -2,7 +2,7 @@
 <h2 align="center">I am a web developer from Cordoba, Argentina who really enjoys learning new ways to create different solutions through code.</h2>
 
 - 🌍 I'm from Argentina.
-- 🧠  I'm learning **React** and **NodeJS**
+- 🧠  I'm learning **NodeJS**
 
 
 ## Technologies and tools
