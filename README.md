@@ -44,13 +44,17 @@
 
 
 # 📊 GitHub Stats:
+  
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloNegro&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaloNegro&show_icons=true&theme=radical)
 
+  
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaloNegro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GonzaloNegro" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzaloNegro&show_icons=true&locale=en&theme=tokyonight" alt="GonzaloNegro" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaloNegro&&theme=tokyonight" alt="GonzaloNegro" /></p>
