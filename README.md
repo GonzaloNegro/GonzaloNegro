@@ -1,9 +1,20 @@
 <h1 align="center">Hi everyone 👋, I'm Gonzalo</h1>
 <h2 align="center">I am a web developer from Cordoba, Argentina who really enjoys learning new ways to create different solutions through code.</h2>
 
+Visitas al perfil: <a href="https://www.contadorvisitasgratis.com" title="contador de visitas com estilos contador htm"><img src="https://counter5.optistats.ovh/private/contadorvisitasgratis.php?c=rrx33alcpnrb6wykusaukyfm5j6x62nj" border="0" title="contador de visitas com estilos contador htm" alt="contador de visitas com estilos contador htm"></a>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 - 🌍 I'm from Argentina.
+
 - 🧠  I'm learning **NodeJS**
 
+- 💬 Ask me about **PHP, MEARN**
+
+- 📫 How to reach me **gonzalonnegro@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+<br>
 
 ## Technologies and tools
 
@@ -44,17 +55,9 @@
 
 
 # 📊 GitHub Stats:
-  
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloNegro&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaloNegro&show_icons=true&theme=radical)
 
-  
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaloNegro&show_icons=true&locale=en&layout=compact&theme=radical" alt="GonzaloNegro" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaloNegro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GonzaloNegro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzaloNegro&show_icons=true&locale=en&theme=radical" alt="GonzaloNegro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzaloNegro&show_icons=true&locale=en&theme=tokyonight" alt="GonzaloNegro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaloNegro&&theme=tokyonight" alt="GonzaloNegro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaloNegro&&theme=radical" alt="GonzaloNegro" /></p>
