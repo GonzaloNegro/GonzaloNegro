@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Gonzalo</h1>
 <h2 align="center">I am a web developer from Cordoba, Argentina who really enjoys learning new ways to create different solutions through code.</h2>
 
-Visitas al perfil: <a href="https://www.contadorvisitasgratis.com" title="contador de visitas com estilos contador htm"><img src="https://counter5.optistats.ovh/private/contadorvisitasgratis.php?c=rrx33alcpnrb6wykusaukyfm5j6x62nj" border="0" title="contador de visitas com estilos contador htm" alt="contador de visitas com estilos contador htm"></a>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Gonzalonegro&label=Profile%20views&color=0e75b6&style=flat" alt="Gonzalonegro" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
