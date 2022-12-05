@@ -47,7 +47,8 @@
 <a href="https://www.linkedin.com/in/gonzalonegrowebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalonegrowebdeveloper/" height="30" width="40" /></a>
 
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloNegro&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
