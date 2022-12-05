@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **gonzalonnegro@gmail.com**
 
+- 📫 You can find me too on <a href="https://www.linkedin.com/in/gonzalonegrowebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalonegrowebdeveloper/" height="30" width="40" /></a>
+
 - ⚡ Fun fact **I am Funny**
 <br>
 
@@ -36,28 +38,14 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
-  
-## Skills
-  
-  <ul>
-    <li>Teamwork.</li>
-    <li>Time management.</li>
-    <li>Working under pressure.</li>    
-    <li>Responsibility.</li>
-    <li>Adaptability.</li>
-    <li>Communication.</li>
-    <li>Critical thinking.</li>
-  </ul>
-
-
-## Connect with me
-<a href="https://www.linkedin.com/in/gonzalonegrowebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalonegrowebdeveloper/" height="30" width="40" /></a>
-
 
 # 📊 GitHub Stats:
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaloNegro&show_icons=true&locale=en&layout=compact&theme=radical" alt="GonzaloNegro" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaloNegro&show_icons=true&locale=en&layout=compact&theme=radical" alt="GonzaloNegro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzaloNegro&show_icons=true&locale=en&theme=radical" alt="GonzaloNegro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaloNegro&&theme=radical" alt="GonzaloNegro" /></p>
+
+</div>
