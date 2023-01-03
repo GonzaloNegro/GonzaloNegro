@@ -9,7 +9,7 @@
 
 - 🧠  I'm learning **NodeJS**
 
-- 💬 Ask me about **PHP, MEARN**
+- 💬 Ask me about **JAVASCRIPT, PHP, MEARN**
 
 - 📫 How to reach me **gonzalonnegro@gmail.com**
 
