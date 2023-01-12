@@ -42,9 +42,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaloNegro&show_icons=true&locale=en&layout=compact&theme=radical" alt="GonzaloNegro" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=GonzaloNegro&show_icons=true&locale=en&layout=compact&theme=radical" alt="GonzaloNegro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzaloNegro&show_icons=true&locale=en&theme=radical" alt="GonzaloNegro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GonzaloNegro&show_icons=true&locale=en&theme=radical" alt="GonzaloNegro" /></p>
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GonzaloNegro&theme=dark&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
