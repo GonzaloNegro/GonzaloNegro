@@ -1,4 +1,6 @@
-<h1 align="center">Hi everyone 👋, I'm Gonzalo</h1>
+<p align="center">
+  <img src="https://github.com/GonzaloNegro/GonzaloNegro/blob/main/banner1.jpeg?raw=true" alt="Banner" style="width:100%;"/>
+</p>
 <h2 align="center">I am a web developer from Cordoba, Argentina who really enjoys learning new ways to create different solutions through code.</h2>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Gonzalonegro&label=Profile%20views&color=0e75b6&style=flat" alt="Gonzalonegro" /> </p>
