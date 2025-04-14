@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/GonzaloNegro/GonzaloNegro/blob/main/banner1.jpeg?raw=true" alt="Banner" style="width:100%;"/>
 </p>
-<h2 align="center">I am a web developer from Cordoba, Argentina who really enjoys learning new ways to create different solutions through code.</h2>
+<h2 align="center">💡 I'm a System Analyst and Web Developer from Córdoba, Argentina, specialized in PHP development.
+🎓 Currently studying Artificial Intelligence and Data Science, always looking to grow and build smart, scalable solutions.</h2>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Gonzalonegro&label=Profile%20views&color=0e75b6&style=flat" alt="Gonzalonegro" /> </p>
 
@@ -9,9 +10,9 @@
 
 - 🌍 I'm from Argentina.
 
-- 🧠  I'm learning **NodeJS**
+- 🧠 Currently learning **Artificial Intelligence, Data Science and NodeJS**
 
-- 💬 Ask me about **JAVASCRIPT, PHP, MEARN**
+- 💬 Ask me about **PHP, Laravel, SQL, Artificial Intelligence, Data Science, JavaScript, and Power BI**
 
 - 📫 How to reach me **gonzalonnegro@gmail.com**
 
